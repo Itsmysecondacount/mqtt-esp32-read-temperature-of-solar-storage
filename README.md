@@ -41,6 +41,17 @@ Install the voltage regulator within a protective casing outside the tank area t
 
 The sensors are installed inside the tank through holes sealed with cold welding to prevent leaks. Use hot water pipes to protect the sensor wiring from heat and corrosion.
 
+<p align="center">
+<img src="./Images/solar-thermal2.jpeg" height="300">
+</p>
+
+<p align="center">
+<img src="./Images/solar-thermal4.jpeg" height="300">
+</p>
+
+<p align="center">
+<img src="./Images/solar-thermal5.jpeg" height="300">
+</p>
 ## Configuration
 
 Connect the ESP32 to your Wi-Fi network and configure the MQTT settings as per the details provided in the code. Adjust the IP address, MQTT server, and port number to match your network settings.
