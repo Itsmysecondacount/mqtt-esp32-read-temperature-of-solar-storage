@@ -14,9 +14,10 @@ DS18B20 Temperature Sensors: Provide accurate water temperature readings.
 <br>
 3D-Printed Enclosure: Houses all electronic components.
 Voltage Regulator (220V to 5V): Powers the system. It is recommended to install the regulator outside in a sheltered location.
-<br>
+
+<p align="center">
 <img src="./Images/220-5.png" height="200">
-<br>
+</p>
 Additional Supplies: Hot water pipes and cold welding techniques were used to install the sensors in the tank.
 
 ##Installation
