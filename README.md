@@ -52,12 +52,15 @@ The sensors are installed inside the tank through holes sealed with cold welding
 <p align="center">
 <img src="./Images/solar-thermal5.jpeg" height="300">
 </p>
+
 ## Configuration
 
 Connect the ESP32 to your Wi-Fi network and configure the MQTT settings as per the details provided in the code. Adjust the IP address, MQTT server, and port number to match your network settings.
 Usage
 
 Once installed and configured, the ESP32 will automatically read temperatures and send the data to the configured MQTT server. You can monitor the temperatures through any MQTT client connected to the same server.
+
+[CODE](./Code/arduino-temperature-read.ino)
 
 ## Maintenance
 
