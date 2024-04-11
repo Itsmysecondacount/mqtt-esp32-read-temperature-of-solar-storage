@@ -4,15 +4,15 @@
 This project utilizes an ESP32 SoC to monitor temperature via two DS18B20 sensors connected over I2C. The system is housed in a 3D-printed enclosure along with a 220V to 5V voltage regulator. It connects to Wi-Fi to send data to an MQTT server, which handles temperature readings from the solar water tank.
 ##Components Used
 
-    ESP32 SoC: Manages the sensors and Wi-Fi connection.
-    	<img src="./Images/esp32.png" width="500" height="300">
-    	![ESP32](./Images/esp32.png)
-    DS18B20 Temperature Sensors: Provide accurate water temperature readings.
-    	![DS18B20](./Images/DS18B20.png)
-    3D-Printed Enclosure: Houses all electronic components.
-    Voltage Regulator (220V to 5V): Powers the system. It is recommended to install the regulator outside in a sheltered location.
-    	![220-5](./Images/220-5.png)
-    Additional Supplies: Hot water pipes and cold welding techniques were used to install the sensors in the tank.
+ESP32 SoC: Manages the sensors and Wi-Fi connection.
+<img src="./Images/esp32.png" width="500" height="300">
+![ESP32](./Images/esp32.png)
+DS18B20 Temperature Sensors: Provide accurate water temperature readings.
+![DS18B20](./Images/DS18B20.png)
+3D-Printed Enclosure: Houses all electronic components.
+Voltage Regulator (220V to 5V): Powers the system. It is recommended to install the regulator outside in a sheltered location.
+![220-5](./Images/220-5.png)
+Additional Supplies: Hot water pipes and cold welding techniques were used to install the sensors in the tank.
 
 ##Installation
 ##1. Setting up the enclosure
