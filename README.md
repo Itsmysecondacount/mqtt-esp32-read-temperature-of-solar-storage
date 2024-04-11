@@ -29,6 +29,10 @@ Additional Supplies: Hot water pipes and cold welding techniques were used to in
 
 The entire system is enclosed in a 3D-printed case designed to protect the electronics. Ensure the case is securely mounted and positioned away from direct exposure to the elements.
 
+<p align="center">
+<img src="./Images/solar-thermal6.jpeg" height="300">
+</p>
+
 ## 2. Wiring the Components
 
 Connect the DS18B20 sensors to the ESP32 using I2C communication lines. Secure the wiring and ensure that it does not interfere with the tank's operation.
