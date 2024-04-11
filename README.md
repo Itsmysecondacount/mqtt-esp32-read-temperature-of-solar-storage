@@ -70,3 +70,7 @@ Regular checks should be made to ensure the integrity of the enclosure and the f
 
     Integration with a broader home automation system.
     Enhancements in data encryption and security for IoT devices.
+
+## Problems
+
+When you leave the esp32 outdoors and there is humidity, it sulfates so protect it very well.
