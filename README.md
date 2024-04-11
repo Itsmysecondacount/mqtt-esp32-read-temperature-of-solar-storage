@@ -5,13 +5,14 @@ This project utilizes an ESP32 SoC to monitor temperature via two DS18B20 sensor
 ##Components Used
 
 ESP32 SoC: Manages the sensors and Wi-Fi connection.
-<br>
+
+<p align="center">
 <img src="./Images/esp32.png" height="200">
-<br>
+</p>
 DS18B20 Temperature Sensors: Provide accurate water temperature readings.
-<br>
+<p align="center">
 <img src="./Images/DS18B20.png" height="200">
-<br>
+</p>
 3D-Printed Enclosure: Houses all electronic components.
 Voltage Regulator (220V to 5V): Powers the system. It is recommended to install the regulator outside in a sheltered location.
 
