@@ -68,6 +68,8 @@ Once installed and configured, the ESP32 will automatically read temperatures an
 
 [Here's how to run and configure an mqtt server.](https://github.com/Itsmysecondacount/mqtt-server-whit-processor/tree/main)
 
+[Here's how to build an esp32 subscriber whit oled display](https://github.com/Itsmysecondacount/mqtt-sub-whit-display)
+
 ## Maintenance
 
 Regular checks should be made to ensure the integrity of the enclosure and the functionality of the sensors and wiring. The voltage regulator should be checked periodically for heat damage or exposure.
